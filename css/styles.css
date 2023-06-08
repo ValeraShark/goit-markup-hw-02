@@ -7,7 +7,7 @@ body { font-family: 'Roboto', sans-serif; color: #434455;}
  /* ----нижче убирає підчеркування-----*/
 .link {text-decoration: none;}
 .list {list-style-type: none;}
-.header-logo { font-family: 'Raleway' sans-serif;
+.header-logo {font-family: 'Raleway', sans-serif;
         /* ----нижче товщина (жирність) шрифта-----*/
         font-style: normal;
         font-weight: 800;
