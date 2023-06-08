@@ -15,6 +15,7 @@ body { font-family: 'Roboto', sans-serif; color: #434455;}
                 /* ----нижче висота рядка вимір-ся у відносних величинах вимірювання----- */
         line-height: 1.17;
         letter-spacing: 0.03em;
+        text-transform: uppercase;
         color: #4D5AE5;}
 
 .header-logo span {color: #2E2F42;}
