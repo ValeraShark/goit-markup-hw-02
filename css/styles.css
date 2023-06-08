@@ -70,9 +70,7 @@ body { font-family: 'Roboto', sans-serif; color: #434455;}
         color: #FFFFFF; }
 
 /** -------------------Benefits------------ */
-.benefits-2 [
-        line-height: 1.07
-]
+
 .benefits-list {}
 
 .benefits-item {}
