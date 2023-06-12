@@ -22,7 +22,8 @@ body { font-family: 'Roboto', sans-serif;color: #434455;background-color: #FFFFF
 
 .header-logo span {color: #2E2F42;}
 .header-adress {
-        font-style: normal;}
+        font-style: normal;
+        color: var(second-text-color);}
 
 .header-menu {
         font-family: 'Roboto';
