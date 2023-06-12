@@ -3,11 +3,13 @@
     --main-text-color:#2E2F42;
     --second-text-color:#434455;
 }
-body { font-family: 'Roboto', sans-serif; color: #434455;background-color: #FFFFFF;}
+body { font-family: 'Roboto', sans-serif;color: #434455;background-color: #FFFFFF;}
  /* ----нижче убирає підчеркування-----*/
 .link {text-decoration: none;}
 .list {list-style-type: none;}
-.header-logo {font-family: 'Raleway', sans-serif;
+
+/* ----------------header-----*/
+.header-logo { font-family: 'Raleway', sans-serif;
         /* ----нижче товщина (жирність) шрифта-----*/
         font-style: normal;
         font-weight: 800;
@@ -19,6 +21,7 @@ body { font-family: 'Roboto', sans-serif; color: #434455;background-color: #FFFF
         color: #4D5AE5;}
 
 .header-logo span {color: #2E2F42;}
+
 .header-menu {
         font-family: 'Roboto';
         font-style: normal;
@@ -28,28 +31,30 @@ body { font-family: 'Roboto', sans-serif; color: #434455;background-color: #FFFF
         letter-spacing: 0.02em;
         color: #2E2F42;}
 
-.header-menu-link :hover {color: #404BBF;}
-.header-menu-link :focus {
-        color: #520404;
-        color: #404BBF;}
+.header-menu-link :hover{color: #404bbf;},
+.header-menu-link :focus {color: #520404; color: #404bbf;}
 
 /** -------------------Hero---------------- */
-.hero {background-color: #2E2F42;}
+.hero {
+        background-color: #2E2F42;
+}
 
 .hero-title {
-                font-weight: 700;
-                font-size: 56px;
-                line-height: 1.07;
-                text-align: center;
-                letter-spacing: 0.02em;
-        color: #FFFFFF;}
+        font-weight: 700;
+        font-size: 56px;
+        line-height: 1.07;
+        text-align: center;
+        letter-spacing: 0.02em;
+        color: #FFFFFF;
+}
 
 .hero-btn {
         font-family: 'Roboto';
-                font-weight: 500;
-                font-size: 16px;
-                line-height: 1.5;
-        color: #FFFFFF; }
+        font-weight: 500;
+        font-size: 16px;
+        line-height: 1.5;
+        color: #FFFFFF;
+}
          
 /** -------------------Footer---------------- */
 .footer-logo {
@@ -73,9 +78,7 @@ body { font-family: 'Roboto', sans-serif; color: #434455;background-color: #FFFF
 
 
 /** -------------------Benefits------------ */
-.benefits-2 {
-        line-height: 1.07
-}
+
 .benefits-list {}
 
 .benefits-item {}
@@ -83,7 +86,7 @@ body { font-family: 'Roboto', sans-serif; color: #434455;background-color: #FFFF
 .benefits-subtitle {
         font-weight: 500;
         font-size: 20px;
-        line-height: 1.2;
+        line-height:1.2;
         letter-spacing: 0.02em;
         color: #2E2F42;}
 
@@ -93,6 +96,7 @@ body { font-family: 'Roboto', sans-serif; color: #434455;background-color: #FFFF
         letter-spacing: 0.02em;
         color:var(--second-text-color);}
 
+/**-----------------------Section2----------*/
 .electronica-title {
                 font-weight: 700;
                 font-size: 36px;
@@ -123,3 +127,4 @@ body { font-family: 'Roboto', sans-serif; color: #434455;background-color: #FFFF
         font-size: 16px;
         line-height: 1.5;
         color: var(--second-text-color);}
+
