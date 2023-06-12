@@ -30,6 +30,24 @@ body { font-family: 'Roboto', sans-serif; color: #434455;background-color: #FFFF
 
 .header-menu-link :hover {color: #404bbf;}
 .header-menu-link :focus {color: #520404;color: #404bbf;}
+
+/** -------------------Hero---------------- */
+.hero {background-color: #2E2F42;}
+
+.hero-title {
+                font-weight: 700;
+                font-size: 56px;
+                line-height: 1.07;
+                text-align: center;
+                letter-spacing: 0.02em;
+        color: #FFFFFF;}
+
+.hero-btn {
+        font-family: 'Roboto';
+                font-weight: 500;
+                font-size: 16px;
+                line-height: 1.5;
+        color: #FFFFFF; }
          
 /** -------------------Footer---------------- */
 .footer-logo {
@@ -51,23 +69,6 @@ body { font-family: 'Roboto', sans-serif; color: #434455;background-color: #FFFF
                 color: #F4F4FD;}
 .menu { display: flex;}
 
-/** -------------------Hero---------------- */
-.hero {background-color: #2E2F42;}
-
-.hero-title {
-                font-weight: 700;
-                font-size: 56px;
-                line-height: 1.07;
-                text-align: center;
-                letter-spacing: 0.02em;
-        color: #FFFFFF;}
-
-.hero-btn {
-        font-family: 'Roboto';
-                font-weight: 500;
-                font-size: 16px;
-                line-height: 1.5;
-        color: #FFFFFF; }
 
 /** -------------------Benefits------------ */
 .benefits-2 {
