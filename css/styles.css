@@ -32,7 +32,7 @@ body { font-family:'Roboto', sans-serif;color: #434455;background-color: #FFFFFF
         letter-spacing: 0.02em;
         color: #2E2F42;}
 
-.header-menu-link :hover {color: #404bbf;cursor: pointer;}
+.header-menu-link :hover {color: #404bbf, cursor: pointer;}
 .header-menu-link :focus {color: #404bbf;}
 
 
