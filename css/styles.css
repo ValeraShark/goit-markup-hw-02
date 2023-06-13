@@ -58,7 +58,7 @@ body { font-family:'Roboto', sans-serif;color: #434455;background-color: #FFFFFF
     background-color: #4D5AE5;}
 
 .hero-btn:hover {background-color: #404BBF;}
-.hero-btn:hover:focus {background-color: #404BBF;}
+.hero-btn:focus {background-color: #404BBF;}
 
 /** -------------------Benefits------------ */
 
