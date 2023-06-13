@@ -94,20 +94,25 @@ letter-spacing: 0.02em;
 text-transform: capitalize;
 color: #2E2F42;
 }
+
 .team-subtitle {
-        font-weight: 500;
-        font-size: 20px;
-        line-height: 1.2;
-        color: #2E2F42;}
+      font-style: normal;
+font-weight: 500;
+font-size: 20px;
+line-height: 1.2;
+text-align: center;
+letter-spacing: 0.02em;
+color: #2E2F42;
+}
 
-.team-list {}
-
-.team-item {}
-
-.team-item text {
-        font-size: 16px;
-        line-height: 1.5;
-        color: var(--second-text-color);}
+.team-item-text {
+    font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 1.5;
+text-align: center;
+letter-spacing: 0.02em;
+color: var(--second-text-color);}       
 
 /** -------------------Footer---------------- */
 .footer-logo { font-family: 'Raleway', sans-serif;
