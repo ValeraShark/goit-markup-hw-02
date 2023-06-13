@@ -87,6 +87,7 @@ text-transform: capitalize;
 .electronica list {}
 
 /** -------------------Team------------ */
+.team {background-color: #FFFFFF;} 
 .team-title {
 font-family: 'Roboto';
 font-style: normal;
