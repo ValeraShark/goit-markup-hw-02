@@ -84,6 +84,8 @@ body { font-family:'Roboto', sans-serif;color: #434455;background-color: #FFFFFF
 letter-spacing: 0.02em;
 text-transform: capitalize;
                 color: #2E2F42;}
+.electronica list {}
+        .list {list-style-type: none;}
 
 /** -------------------Team------------ */
 .team-title {
