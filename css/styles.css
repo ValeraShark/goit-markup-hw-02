@@ -125,7 +125,8 @@ color: var(--second-text-color);}
 /** -------------------Footer---------------- */
 .footer {
         background-color:var(--title-color);}
-.footer-logo link{ font-family: 'Raleway', sans-serif;
+
+.footer-logo { font-family: 'Raleway', sans-serif;
         font-style: normal;
         font-weight: 800;
         font-size: 18px;
@@ -135,7 +136,7 @@ color: var(--second-text-color);}
         text-transform: uppercase;
         color: #4D5AE5;
         
-    .footer-logo link span {
+    .footer-logo span {
         font-family: 'Raleway';
                 font-style: normal;
                 font-weight: 800;
