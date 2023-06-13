@@ -135,7 +135,7 @@ color: var(--second-text-color);}
         text-transform: uppercase;
         color: #4D5AE5;
         
-    .footer-logo span { color: #F4F4FD;}
+    .footer-logo span { color-text: #F4F4FD;}
 
             .footer-text {
                 font-size: 16px;
