@@ -107,9 +107,10 @@ font-size: 20px;
 line-height: 1.2;
 text-align: center;
 letter-spacing: 0.02em;
-color: #2E2F42;
-}
+background-color: #FFFFFF;}
+
 .team list {}
+
 .team-item-text {
     font-style: normal;
 font-weight: 400;
