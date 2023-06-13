@@ -88,6 +88,7 @@ text-transform: capitalize;
 
 /** -------------------Team------------ */
 .team {background-color:#F4F4FD;} 
+
 .team-title {
 font-family: 'Roboto';
 font-style: normal;
@@ -97,8 +98,9 @@ line-height: 1.11;
 text-align: center;
 letter-spacing: 0.02em;
 text-transform: capitalize;
-color: #2E2F42;
-}
+color: #2E2F42;}
+
+.team-item {background-color:#FFFFFF}
 
 .team-subtitle {
       font-style: normal;
@@ -107,7 +109,7 @@ font-size: 20px;
 line-height: 1.2;
 text-align: center;
 letter-spacing: 0.02em;
-background-color: #FFFFFF;}
+color: #2E2F42;}
 
 .team list {}
 
