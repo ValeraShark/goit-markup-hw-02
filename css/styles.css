@@ -136,7 +136,16 @@ color: var(--second-text-color);}
             line-height: 1.17;
             color: #4D5AE5;}
 
- .footer-logo span { color: #F4F4FD;}
+ .footer-logo span { 
+     font-family: 'Raleway';
+font-style: normal;
+font-weight: 800;
+font-size: 18px;
+line-height:1.17;
+align-items: center;
+letter-spacing: 0.03em;
+text-transform: uppercase;
+color: #F4F4FD;}
 
         .footer-text {
         font-size: 16px;
