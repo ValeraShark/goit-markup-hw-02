@@ -126,7 +126,7 @@ color: var(--second-text-color);}
 .footer {
         background-color:var(--title-color);}
 
-.footer-logo { font-family: 'Raleway', sans-serif;
+.footer-logo { font-family: "Raleway", sans-serif;
         /* ----нижче товщина (жирність) шрифта-----*/
         font-style: normal;
         font-weight: 800;
