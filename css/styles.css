@@ -3,7 +3,7 @@
     --main-text-color:#F4F4FD;
     --second-text-color:#434455;
 }
-body { font-family: 'Roboto', sans-serif;color: #434455;background-color: #FFFFFF;}
+body { font-family:'Roboto', sans-serif;color: #434455;background-color: #FFFFFF;}
  /* ----нижче убирає підчеркування-----*/
 .link {text-decoration: none;}
 .list {list-style-type: none;}
@@ -84,12 +84,16 @@ body { font-family: 'Roboto', sans-serif;color: #434455;background-color: #FFFFF
 
 /** -------------------Team------------ */
 .team-title {
-        font-weight: 700;
-        font-size: 36px;
-        line-height: 1.11;
-        text-align: center;
-        text-transform: capitalize;
-        color: #2E2F42;}
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 700;
+font-size: 36px;
+line-height: 1.11;
+text-align: center;
+letter-spacing: 0.02em;
+text-transform: capitalize;
+color: #2E2F42;
+}
 .team-subtitle {
         font-weight: 500;
         font-size: 20px;
