@@ -126,14 +126,15 @@ color: var(--second-text-color);}
 .footer {
         background-color:var(--title-color);}
 
-.footer-logo {
-        font-family: 'Raleway';
+.footer-logo {font-family: 'Raleway'; sans-serif;
             /* ----нижче товщина (жирність) шрифта-----*/
             font-style: normal;
             font-weight: 800;
             font-size: 18px;
             /* ----нижче висота рядка вимір-ся у відносних величинах вимірювання----- */
             line-height: 1.17;
+            letter-spacing: 0.03em;
+            text-transform: uppercase;
             color: #4D5AE5;}
 
  .footer-logo span {color:#F4F4FD;}
