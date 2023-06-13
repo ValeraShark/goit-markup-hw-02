@@ -144,6 +144,10 @@ color: var(--second-text-color);}
         line-height: 1.5;
         letter-spacing: 0.02em;
         color: var(--main-text-color);}
+
+.header-logo span {color: #2E2F42;}
+
+.footer-logo span {color: #F4F4FD;}
     
     
 
