@@ -137,13 +137,14 @@ color: var(--second-text-color);}
         
     .footer-logo span { text: #F4F4FD;}
 
-    .text {
+    .footer-text {
 font-style: normal;
 font-weight: 400;
 font-size: 16px;
 line-height: 1.5;
 letter-spacing: 0.02em;
-color: var(--main-text-color);}
+color: var(--main-text-color);
+    }
     
 .menu { display: flex;}
 
