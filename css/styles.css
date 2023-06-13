@@ -23,7 +23,7 @@ body { font-family:'Roboto', sans-serif;color: #434455;background-color: #FFFFFF
 .header-logo span {color: #2E2F42;}
 .header-adress {font-style: normal;}
 
-.header-menu link {
+.header-menu {
         font-family: 'Roboto';
         font-style: normal;
         font-weight: 500;
