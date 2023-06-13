@@ -54,6 +54,7 @@ body { font-family:'Roboto', sans-serif;color: #434455;background-color: #FFFFFF
         display: flex;
         align-items: center;
         letter-spacing: 0.04em;
+        cursor: pointer;
         color: #FFFFFF;
     background-color: #4D5AE5;}
 
