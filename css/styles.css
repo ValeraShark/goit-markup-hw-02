@@ -23,14 +23,17 @@ body { font-family:'Roboto', sans-serif;color: #434455;background-color: #FFFFFF
 .header-logo span {color: #2E2F42;}
 .header-adress {font-style: normal;}
 
-.header-menu {
+.header-menu-studio {
         font-family: 'Roboto';
-        font-style: normal;
-        font-weight: 500;
-        font-size: 16px;
-        line-height: 1.5;
-        letter-spacing: 0.02em;
-        color: #2E2F42;}
+font-style: normal;
+font-weight: 500;
+font-size: 16px;
+line-height: 1.5;
+letter-spacing: 0.02em;
+color:var(--title-color);}
+
+
+    
 
 .header-menu-link:hover {color: #404bbf;}
 .header-menu-link:focus {color: #404bbf;}
