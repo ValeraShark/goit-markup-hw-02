@@ -9,15 +9,17 @@ body { font-family:'Roboto', sans-serif;color: #434455;background-color: #FFFFFF
 .list {list-style-type: none;}
 
 /* ----------------header-----*/
-.header-logo link { font-family: 'Raleway', sans-serif;
+.header-logo link {
+        font-family: 'Raleway', sans-serif;
         /* ----нижче товщина (жирність) шрифта-----*/
         font-weight: 800;
         font-size: 18px;
-                /* ----нижче висота рядка вимір-ся у відносних величинах вимірювання----- */
+        /* ----нижче висота рядка вимір-ся у відносних величинах вимірювання----- */
         line-height: 1.17;
         letter-spacing: 0.03em;
         text-transform: uppercase;
-        color: #4D5AE5;}
+        color: #4D5AE5;
+}
 
 .header-logo span {color: #2E2F42;}
 .header-adress {font-style: normal;}
