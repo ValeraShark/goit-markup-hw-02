@@ -34,8 +34,8 @@ cursor: pointer;
 color:var(--title-color);}
   
 
-.header-menu-studio link:hover {color: #404bbf;}
-.header-menu-studio link:focus {color: #404bbf;}
+.header-menu-studio:hover {color: #404bbf;}
+.header-menu-studio:focus {color: #404bbf;}
 .header-menu-studio link:active {color: #9747FF;}
 
 .header-menu-portfolio {
@@ -91,8 +91,6 @@ color: #2E2F42;}
         font-weight: 500;
         font-size: 16px;
         line-height: 1.5;
-        display: flex;
-        align-items: center;
         letter-spacing: 0.04em;
         cursor: pointer;
         color: #FFFFFF;
