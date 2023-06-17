@@ -168,15 +168,25 @@ color: var(--second-text-color);}
 .portfpage-btn:hover {color: #FFFFFF; background-color: #404BBF}
 .portfpage-btn:focus {color: #FFFFFF; background-color: #404BBF}
 
-.portfpage-btn2 {
-        font-family:'Roboto', sans-serif;
+.portfpage2-bank {
+        font-family: 'Roboto';
+        font-style: normal;
         font-weight: 500;
+        font-size: 20px;
+        line-height: 1.2;
+        letter-spacing: 0.02em;
+        color: var(--title-color);
+}
+
+.portfpage21 {
+        font-family: 'Roboto';
+        font-style: normal;
+        font-weight: 400;
         font-size: 16px;
         line-height: 1.5;
-        letter-spacing: 0.04em;
-        cursor: pointer;
-        color: var(--logo-color);}
-
+        letter-spacing: 0.02em;
+        color: var(--second-text-color);
+}
     
     
 
