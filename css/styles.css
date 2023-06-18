@@ -186,7 +186,7 @@ color: var(--second-text-color);}
 .portfpage-btn:hover {color: #FFFFFF; background-color: #404BBF}
 .portfpage-btn:focus {color: #FFFFFF; background-color: #404BBF}
 
-.portfpage2-bank {
+.portfolio {
         font-family:'Roboto', sans-serif;
         font-style: normal;
         font-weight: 500;
@@ -195,7 +195,7 @@ color: var(--second-text-color);}
         letter-spacing: 0.02em;
         color: var(--title-color);}
 
-.portfpage21 {
+.portfcontent {
         font-family:'Roboto', sans-serif;
         font-style: normal;
         font-weight: 400;
