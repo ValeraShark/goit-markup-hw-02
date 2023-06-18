@@ -23,7 +23,15 @@ body { font-family:'Roboto', sans-serif;color: #434455;background-color: #FFFFFF
 }
 
 .header-logo span {color: #2E2F42;}
-.header-logo2 {color: #2E2F42;}
+.headercolortext {
+        font-family: 'Raleway';
+        font-style: normal;
+        font-weight: 800;
+        font-size: 18px;
+        line-height: 1.17;
+        letter-spacing: 0.03em;
+        color: #F4F4FD;
+}
 .header-adress {font-style: normal;}
 
 .header-menu-link {
